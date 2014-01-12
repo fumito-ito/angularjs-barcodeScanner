@@ -1,5 +1,5 @@
 {
-  "name": "angular-barcodeScanner",
+  "name": "angular-phonegap-barcodeScanner",
   "version": "0.1.0",
   "description": "An anglar.js wrapper around window.plugins.barcodeScanner for Phonegap/Cordova plugin",
   "main": "dist/barcodeScanner.js",
@@ -12,6 +12,7 @@
   "license": "MIT",
   "keywords": [
     "barcodeScanner",
+    "phonegap",
     "anuglar.js"
   ],
   "ignore": [
