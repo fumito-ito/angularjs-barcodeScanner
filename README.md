@@ -28,7 +28,7 @@ main.js
 
     'use strict';
 
-    angular.module('sampleApp', ['barcodeScanner])
+    angular.module('sampleApp', ['barcodeScanner'])
       .controller('sampleCtrl', function ($scope, barcodeScanner) {
         $scope.scan = function () {
           barcodeScanner.scan().then( function (result) {
