@@ -11,7 +11,7 @@ An anglar.js wrapper around window.plugins.barcodeScanner for Phonegap/Cordova p
 index.html
 
     <html>
-    <head>
+    <head ng-app="sampleApp">
       <meta charset="utf-8" />
       <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.min.js"></script>
       <script src="bower_components/angular-phonegap-barcodeScanner/dist/angularjs-barcodeScanner.min.js"></script>
