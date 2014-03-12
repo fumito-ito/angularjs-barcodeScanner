@@ -36,7 +36,7 @@ main.js
               return;
             }
             // text from qr code or barcode is contained in result.text
-          }, funtion (err) {
+          }, function (err) {
             alert(err);
           });
         };
