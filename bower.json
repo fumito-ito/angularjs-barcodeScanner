@@ -4,7 +4,7 @@
   "description": "An anglar.js wrapper around window.plugins.barcodeScanner for Phonegap/Cordova plugin",
   "main": "./dist/angularjs-barcodeScanner.min.js",
   "dependencies": {
-    "angularjs": "*"
+    "angular": "*"
   },
   "authors": [
     "Fumito Ito <weathercook@gmail.com>"
